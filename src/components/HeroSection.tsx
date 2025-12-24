@@ -146,7 +146,7 @@ export function HeroSection() {
                 <img 
                   src={profileImage} 
                   alt="MD SOJIB - Web Security Analyst"
-                  className="w-full h-full object-cover -scale-x-100"
+                  className="w-full h-full object-cover"
                 />
 
                 {/* Scanline overlay */}
